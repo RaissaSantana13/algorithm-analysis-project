@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/algorithm.png" alt="Algorithm Logo" width="80"/>
   <h1>Análise e Complexidade de Algoritmos</h1>
   <p><b>Limite Inferior para Ordenação e Ordenação em Tempo Linear</b></p>
 
